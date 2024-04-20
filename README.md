@@ -80,3 +80,5 @@ To get started with this project, follow these steps:
 
 ```bash
 git clone [https://github.com/your-username/your-repository.git](https://github.com/nishukum1211/Analytics-assignment.git)
+yarn install
+yarn start
