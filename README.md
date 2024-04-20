@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 # Mini Wine Data app
+![Screenshot](public/assets/analytics-output.jpeg)
+
 
 Basic analysis of Wine Data
 
