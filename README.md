@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Mini Wine Data app
+
+Basic analysis of Wine Data
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+### Clone the Repository
+
+```bash
+git clone [https://github.com/your-username/your-repository.git](https://github.com/nishukum1211/Analytics-assignment.git)
